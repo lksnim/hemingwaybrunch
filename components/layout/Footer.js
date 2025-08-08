@@ -61,10 +61,10 @@ export default function Footer() {
             <a
               aria-label="reference"
               rel="noreferrer noopener"
-              href="https://www.luckymedia.dev/?ref=HEMINGWAY"
+              href="https://wooleemarketing.com"
               className="ml-1 hover:text-secondary-100 hover:border-b hover:border-secondary-100"
             >
-              Lucky Media.
+              WooLee Marketing.
             </a>
           </p>
         </div>
