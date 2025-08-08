@@ -61,7 +61,7 @@ export default function Footer() {
             <a
               aria-label="reference"
               rel="noreferrer noopener"
-              href="https://wooleemarketing.com"
+              href="https://wooleemarketing.com/?ref=hemingway"
               className="ml-1 hover:text-secondary-100 hover:border-b hover:border-secondary-100"
             >
               WooLee Marketing.
